@@ -4,7 +4,7 @@ Various social platforms are available for advertising but how shall we allocate
 ## About the dataset
 Source: [@thelead.io](https://github.com/theleadio/datascience_demo/blob/master/social-ads-raw.xlsx?raw=true)
 
-**Features**
+**Features**  
 *segment* - segment/market ID  
 *google*, *facebook*, *instagram* - amount spent on respective platform ($ '000)  
 *sales* - units ('000) of product  
